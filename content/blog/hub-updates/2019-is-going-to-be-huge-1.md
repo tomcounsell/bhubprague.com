@@ -1,22 +1,26 @@
 +++
 author = "Tom Counsell"
 categories = ["Announcements"]
-date = "2019-01-08T00:00:00+01:00"
-description = "Blockchain Hub Prague has HUGE plans for 2019."
+date = "2019-03-26T00:00:00+01:00"
+description = "Design Sprint: Bemmerse for ASMR Sleep"
 draft = true
-featured = "fireworks.jpeg"
+featured = ""
 featuredalt = ""
 featuredpath = "/media/blog"
-linktitle = "2019-is-huge"
-title = "2019 is Going to be Huge!"
+linktitle = "design-sprint-bemmerse"
+title = "Design Sprint: Bemmerse for ASMR Sleep"
 type = "post"
 
 +++
-# 2019 is Going to be Huge!
+# Design Sprint: Bemmerse for ASMR Sleep
 
-Everyone took an extended holiday in December, but now we are quickly launching into the New Year! So it feels great to start with a fresh new website to showcase all our projects and announcements. Here are some new topics that will be taking front stage in 2019
+The week of March 18th - 22nd put our design sprint skills the the extreme test. Under some extreme conditions, the outcome was incredible and a new startup is born!
 
-## Design Sprints
+### What is ASMR?
+
+Warning... once you open Pandora's box, you can't close it. That's kinda what it feels like when you introduce someone to the world of ASMR. If this is your first time hearing about it, google it at your own risk ;)
+
+## Design Sprint for Newborn Startups!?
 
 A design sprint is a 5-day workshop with about 8 people. The goal is to rapidly design and build a whole new product and then wrap up the week by testing it on real customers. This process was invented by Google Ventures and is becoming very popular among the most innovative companies around the world.
 
