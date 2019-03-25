@@ -29,7 +29,7 @@ One of the biggest requests we hear from our community is where they learn more 
 
 ## Virtual Memberships
 
-There are many blockchain related startups based in Prague - that’s why our founders Tom and Ethan chose to build business here! With the bitcoin market taking a downturn, collaboration is even more important than ever. So to better serve you, we are opening up virtual memberships for free to select startups and projects. Virtual memberships come with free access to our events, VC connections, and some extra hotdesks at the office.
+There are many related startups based in Prague - that’s why our founders Tom and Ethan chose to build business here! With the bitcoin market taking a downturn, collaboration is even more important than ever. So to better serve you, we are opening up virtual memberships for free to select startups and projects. Virtual memberships come with free access to our events, VC connections, and some extra hotdesks at the office.
 
 Limitations and terms apply.
 
