@@ -2,7 +2,7 @@
 author = "Tom Counsell"
 categories = ["Announcements"]
 date = "2019-01-08T00:00:00+01:00"
-description = "Blockchain Hub Prague has HUGE plans for 2019."
+description = "B Hub Prague has HUGE plans for 2019."
 featured = "fireworks.jpeg"
 featuredalt = ""
 featuredpath = "/media/blog"
