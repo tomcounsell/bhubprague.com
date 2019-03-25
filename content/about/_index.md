@@ -9,7 +9,7 @@ B Hub Prague is a business incubator for early to mid-stage startups. We all sha
 
 ## Our Staff
 
-* Tom Counsell
+* \[Tom Counsell\](https://linkedin.com/tomcounsell)
 * Andrea Kobrlova
 
 Blockchain Technology Hub s.r.o.  
