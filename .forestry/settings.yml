@@ -15,8 +15,13 @@ sections:
 - type: heading
   label: Blog
 - type: directory
-  path: content/blog
+  path: content/blog/hub-updates
   label: Blog Posts
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/blog/events
+  label: Events
   create: all
   match: "**/*"
 - type: heading
