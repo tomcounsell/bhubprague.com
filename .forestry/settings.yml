@@ -4,34 +4,26 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
-  path: content/contact
-  label: Contact
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/blog
-  label: Blog
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/jobs
-  label: Jobs
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/lists
-  label: Lists
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/about
+- type: document
+  path: content/about/_index.md
   label: About
+  match: "**/*"
+- type: heading
+  label: Blog
+- type: directory
+  path: content/blog/posts
+  label: Blog Posts
+  create: all
+  match: "**/*"
+- type: heading
+  label: Pages
+- type: document
+  path: content/contact/_index.md
+  label: Contact
+  match: "**/*"
+- type: directory
+  path: content/lists/member_startups
+  label: Member Startups
   create: all
   match: "**/*"
 upload_dir: static/uploads
