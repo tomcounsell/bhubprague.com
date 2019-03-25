@@ -4,9 +4,6 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: content/about/_index.md
-  label: About
 - type: heading
   label: Blog
 - type: directory
@@ -17,8 +14,13 @@ sections:
 - type: heading
   label: Pages
 - type: document
+  path: content/about/_index.md
+  label: About
+- type: document
   path: content/contact/_index.md
   label: Contact
+- type: heading
+  label: Other Things
 - type: directory
   path: content/lists/member_startups
   label: Member Startups
