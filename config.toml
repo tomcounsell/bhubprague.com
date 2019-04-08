@@ -81,7 +81,7 @@ title = "Member Startups"
   [[params.members.item]]
   description = "Safe and secure legal e-signatures without cloud."
   funding = "Venture-Funded"
-  logo = "BF-logo.png"
+  logo = "BF-logo.jpg"
   name = "Blocknify"
   url = "https://blocknify.com"
     [params.members.item.social]
@@ -93,7 +93,7 @@ title = "Member Startups"
   [[params.members.item]]
   description = "Mobile wallet payment system for small businesses."
   funding = "Venture-Funded"
-  logo = "BL-logo.png"
+  logo = "BL-logo.jpg"
   name = "Balehu"
   url = "https://balehu.com"
     [params.members.item.social]
@@ -106,7 +106,7 @@ title = "Member Startups"
   [[params.members.item]]
   description = "Investment Platform Secured by Blockchain."
   funding = "Privately Funded"
-  logo = "LV-logo.png"
+  logo = "LV-logo.jpg"
   name = "Leva"
   url = "https://leva.pe"
     [params.members.item.social]
