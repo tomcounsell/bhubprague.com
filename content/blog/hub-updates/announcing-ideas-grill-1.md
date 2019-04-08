@@ -12,55 +12,23 @@ title = "Announcing Ideas Grill"
 type = "post"
 
 +++
-Starting today (yup, right now), we are announcing **Ideas Grill**. Years of brainstorming have gone into this and now we’re going all in. You can view and comment on all the projects "on the grill" on the public Trello board: [https://trello.com/b/2TaxsEbm/ideas-grill#](https://trello.com/b/2TaxsEbm/ideas-grill# "https://trello.com/b/2TaxsEbm/ideas-grill#") (we're not shy)
+Much has happened since 2017 when we started Blockchain Hub. We have always believed in the power of partnerships and the urge to cooperate has never been more essential for success than at times like these.
 
-The _Master Plan_ has three parts.
+Community-driven support, shared resources, and experience are the most valuable assets an entrepreneur. That is why we are opening up memberships to _any internet startup_, founder, investor or partner, who wants to take part in our vision of mutual success. That means, there is no limitation to blockchain projects. 
 
-**1. Design Sprints.** (see [YouTube explainer](https://youtu.be/K2vSQPh6MCE))
+**Welcome to** [**B Hub Prague**](https://bhubprague.com)**! ![🚀](https://mail.google.com/mail/e/1f680)**
 
-Straight into the fire with the Google Ventures Design Sprint method, a raw idea goes in and 4 days later a product is tested on customers. It’s intense and you should [register your name](https://airtable.com/shrl8KSKpXPa04Wy0) to join us for one. Be there and you get equity in the new startup that comes out.
+**1. Startups & Founders:** Are you looking for team, investment, office, space? Come to B Hub Prague office in Karlin ([map link](https://goo.gl/maps/u6yGYr6EZX82)) and talk to us about what you need to make your plans happen. That is precisely why we are here!
 
-**2. Investibility Benchmark.**
+**2. Investors:** Come to talk to us about possibilities to invest in our startups. 2019 is going to be huge on our side, and we have already been kicking off internal projects as well. In the meantime, we are setting up an investment fund for angel investing with our Swiss partner, Leva, which is an opportunity you shouldn’t miss!
 
-Inspired by _Investible_, one of the most successful seed funds in the world, we’ve created a written exam to put a startup business to the ultimate test. It’s comprehensive and hard to pass, but passing takes your startup to the next level … investibility.
+**3. Innovation Supporters:** With the launch of our own Design Sprints, we are looking for smart people to join us on an exciting journey with new innovative ideas. In case you you missed the last registration email, here is the link again: [Design Sprint Registration](https://airtable.com/shrl8KSKpXPa04Wy0)
 
-**3. Private Equity Seed Fund.**  
-A (secret 🤫) Swiss partner is building us a platform for granting startups with seed capital from angel investors worldwide. This will come online later this year.
+**4. Partners:** Do you offer services to startups? Send an email to [andrea@bhubprague.com](mailto:andrea@bhubprague.com). We are always happy to promote excellent service providers!
 
-**OK, Design Sprints 🏃‍♂️🏃‍♂️💨**
+  
+Find us on FB: [https://facebook.com/bhubprague](https://facebook.com/bhubprague "https://facebook.com/bhubprague")  
+and Meetup: [https://www.meetup.com/BHubPrague/](https://www.meetup.com/BHubPrague/ "https://www.meetup.com/BHubPrague/")
 
-**These are kinda intense! We can only do 1 per month. Because space is limited, you should register your name right now.**
-
-Go here —> [Design Sprint Register](https://airtable.com/shrl8KSKpXPa04Wy0)
-
-Srsly, if you’re in Prague, just register and reserve a spot. The rest of this email can wait … 🤔
-
-Here’s the gist of a _Design Sprint_ if you didn’t watch [the video](https://youtu.be/K2vSQPh6MCE_)...
-
-We get a team together of 5-8 skilled people and everyone clears the calendar. And instead of a normal boring week of work, we go through a course of activities so that by the end of the week you’ve prototyped and tested a new idea with customers.
-
-It's a really unique experience - ask anyone else who's done one.
-
-**More Blockchain Hub Prague 🏠**
-
-We have redefined what it means to be an _incubator_. We don’t recruit startups from around the world. We don’t have batches. And we never ask for equity. There’s nothing wrong with doing it that way. Other programs are great at that. But we’re cowboys. We think differently and we change up the game. 🤠
-
-Blockchain Hub Prague was created in 2017 for blockchain startups to synergize and succeed by sharing an office and access to development resources. Since then, we’ve become a centerpiece of the Prague startup community, especially for international founders. We kinda branched beyond “blockchain only” per se, but we are still all software 🤓 startups.
-
-Of the 25 people working from our office located in Karlin, there are 13 countries represented. It’s a hyperactive environment and on Wednesdays there is language lunch where we take turns learning new languages like Chinese, Arabic, Georgian, and Thai.
-
-When you visit for a meeting or just to say hi, the office is just [here on Google Maps](https://goo.gl/maps/oCFvTAR4F982)
-
-Our doors are open to visitors, preferably weekdays 10am-4pm.
-
-There are loads of events happening. Join our Meetup page at [Meetup.com | Blockchain Hub Prague](http://meetup.com/blockchainhubprague/)
-
-We are also on [Facebook | Blockchain Hub Prague](https://www.facebook.com/BlockchainHubPrague/)
-
-Andrea is usually the first point of contact if you want to schedule a meeting, discuss collaborations, or get a membership.
-
-You can email her at [andrea@blockchainhubprague.com](mailto:andrea@blockchainhubprague.com) She rocks! 🤘🏽🎸
-
-_Kudos for reading all the way to the end!_
-
-It’s an honor to serve so many talented people. If you’re in this community, I trust you have that feeling everyday that you are doing the **most important work of your lives**! If that’s not you and you’re still looking for the passion, give me a call, let’s chat.
+Also, our email addresses are a little shorter now ![😍](https://mail.google.com/mail/e/1f60d) and the old ones still work too ![😎](https://mail.google.com/mail/e/1f60e)  
+Tom and Andrea are here for you and want each of you to succeed!
