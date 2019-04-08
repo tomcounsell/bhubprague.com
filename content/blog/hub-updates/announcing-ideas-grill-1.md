@@ -2,13 +2,13 @@
 author = "Tom Counsell"
 categories = []
 date = "2019-03-03T00:00:00+01:00"
-description = "Join us for a Google Ventures Design Sprint and launch ideas into successful startups! Also, Ideas Grill is a thing."
+description = "Blockchain Hub is now B Hub Prague"
 draft = true
-featured = "trello-ideas-grill.jpg"
+featured = "bhubandvision.jpg"
 featuredalt = ""
 featuredpath = "/media/blog"
-linktitle = "ideas-grill"
-title = "Announcing Ideas Grill"
+linktitle = "shorter-name-new-logo"
+title = "Shorter Name, New Logo"
 type = "post"
 
 +++
