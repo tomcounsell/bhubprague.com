@@ -65,7 +65,7 @@ socialShareStumbleupon = false
 socialShareTwitter = true
 viewMorePostLink = "/blog/"
 [params.intro]
-about = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+about = ""
 header = "B Hub Prague"
 paragraph = "For early stage startups to synergize and succeed."
 [params.intro.pic]
@@ -74,71 +74,116 @@ circle = false
 imperfect = false
 src = "/media/main/BH-logo.png"
 width = ""
+
 [params.members]
 title = "Member Startups"
-[[params.members.item]]
-description = "Scalable Ethereum sidechains solution as a service."
-funding = "Token Sale, Dec 2018"
-logo = "AE-logo.png"
-name = "Aerum"
-url = "https://aerum.com"
-[params.members.item.social]
-facebook = "aerum_official"
-github = "aerumtechnology"
-linkedin_company = "aerum-official"
-reddit = "aerum"
-telegram = "aerum_news"
-twitter = "Aerum_official"
-[[params.members.item]]
-description = "Top 100 cryptocurrency. Privacy Technology."
-funding = "Venture-Funded"
-logo = "ZC-logo.png"
-name = "ZCoin"
-url = "https://zcoin.io"
-[params.members.item.social]
-facebook = "zcoinofficial"
-reddit = "zcoin"
-telegram = "zcoinproject"
-twitter = "zcoinofficial"
-youtube = "zcoin"
-[[params.members.item]]
-description = "Open innovation and ideation platform for startups."
-funding = "ICO, Jan 2018"
-logo = "CH-logo.png"
-name = "Crowdholding"
-url = "https://crowdholding.com"
-[params.members.item.social]
-facebook = "Crowdholding"
-github = "Crowdholding"
-linkedin_company = "crowdholding"
-telegram = "Crowdholding"
-twitter = "crowdholding"
-[[params.members.item]]
-description = "AI-powered crypto trading and portfolio management."
-funding = "Token Sale, Sept 2017"
-logo = "ITF-logo.png"
-name = "Intelligent Trading Foundation"
-url = "https://intelligenttrading.org"
-[params.members.item.social]
-facebook = "IntelligentTradingFoundation"
-github = "IntelligentTrading"
-linkedin_company = "intelligenttrading"
-reddit = "intelligenttrading"
-telegram = "intelligenttrading"
-twitter = "tryITF"
-[[params.members.item]]
-description = "mobile app for fasion and art in digital economy."
-funding = "Privately-Funded"
-logo = "NL-logo.png"
-name = "New Life"
-url = "https://newlife.ai"
-[params.members.item.social]
-facebook = "newlifeai"
-instagram = "newlife.ai"
-linkedin_company = "newcoin"
-medium = "NEWCOIN.Network"
-twitter = "NewLifeAI"
-youtube = "newlifeai"
+
+  [[params.members.item]]
+  description = "Safe and secure legal e-signatures without cloud."
+  funding = "Venture-Funded"
+  logo = "BF-logo.png"
+  name = "Blocknify"
+  url = "https://blocknify.com"
+    [params.members.item.social]
+    facebook = "blocknify"
+    github = "Blocknify"
+    linkedin_company = "blocknify"
+    twitter = "blocknify"
+
+  [[params.members.item]]
+  description = "Mobile wallet payment system for small businesses."
+  funding = "Venture-Funded"
+  logo = "BL-logo.png"
+  name = "Balehu"
+  url = "https://balehu.com"
+    [params.members.item.social]
+    facebook = "balehuprotocol"
+    github = "balehu"
+    linkedin_company = "balehu"
+    telegram = "balehu"
+    twitter = "balehuprotocol"
+
+  [[params.members.item]]
+  description = "Investment Platform Secured by Blockchain."
+  funding = "Privately Funded"
+  logo = "LV-logo.png"
+  name = "Leva"
+  url = "https://leva.pe"
+    [params.members.item.social]
+    medium = "leva-platform"
+    linkedin_company = "levaorg"
+    twitter = "levaorg"
+
+  [[params.members.item]]
+  description = "Top 100 cryptocurrency. Privacy Technology."
+  funding = "Venture-Funded"
+  logo = "ZC-logo.png"
+  name = "ZCoin"
+  url = "https://zcoin.io"
+    [params.members.item.social]
+    facebook = "zcoinofficial"
+    reddit = "zcoin"
+    telegram = "zcoinproject"
+    twitter = "zcoinofficial"
+    youtube = "zcoin"
+
+  [[params.members.item]]
+  description = "Open innovation and ideation platform for startups."
+  funding = "ICO, Jan 2018"
+  logo = "CH-logo.png"
+  name = "Crowdholding"
+  url = "https://crowdholding.com"
+    [params.members.item.social]
+    facebook = "Crowdholding"
+    github = "Crowdholding"
+    linkedin_company = "crowdholding"
+    telegram = "Crowdholding"
+    twitter = "crowdholding"
+
+  [[params.members.item]]
+  description = "AI-powered crypto trading and portfolio management."
+  funding = "Token Sale, Sept 2017"
+  logo = "ITF-logo.png"
+  name = "Intelligent Trading Foundation"
+  url = "https://intelligenttrading.org"
+    [params.members.item.social]
+    facebook = "IntelligentTradingFoundation"
+    github = "IntelligentTrading"
+    linkedin_company = "intelligenttrading"
+    reddit = "intelligenttrading"
+    telegram = "intelligenttrading"
+    twitter = "tryITF"
+
+  [[params.members.item]]
+  description = "mobile app for fasion and art in digital economy."
+  funding = "Privately-Funded"
+  logo = "NL-logo.png"
+  name = "New Life"
+  url = "https://newlife.ai"
+    [params.members.item.social]
+    facebook = "newlifeai"
+    instagram = "newlife.ai"
+    linkedin_company = "newcoin"
+    medium = "NEWCOIN.Network"
+    twitter = "NewLifeAI"
+    youtube = "newlifeai"
+
+  [[params.members.item]]
+  description = "Content Discovery for Steem powered by AI"
+  funding = "Privately-Funded"
+  logo = "ST-logo.png"
+  name = "Steeve App"
+  url = "https://www.steeve.app/@steeveapp"
+
+
+  [[params.members.item]]
+  description = "EdTech Marketplace and Scheduling Platform"
+  funding = "Privately-Funded"
+  logo = "PK-logo.png"
+  name = "Prakti"
+  url = "https://prakti.me"
+
+
 [params.postAmount]
 sidebar = 5
 [params.social]
@@ -148,7 +193,7 @@ codepen = ""
 deviantart = ""
 dribbble = ""
 email = "info@bhubprague.com"
-facebook = "blockchainhubprague"
+facebook = "bhubprague"
 flickr = ""
 foursquare = ""
 gitlab = ""
